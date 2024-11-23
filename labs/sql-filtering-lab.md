@@ -1,43 +1,29 @@
-# SQL Filtering Lab: Enhancing Database Security
+# SQL Filtering Lab
 
 **By Christopher Razo**
 
 ---
 
-## Overview
+## Project Overview
 
-The **SQL Filtering Lab** demonstrates the importance of securing databases by filtering SQL inputs. It explores how attackers exploit vulnerabilities in SQL queries and provides hands-on solutions for preventing SQL injection attacks. 
-
-This lab is designed to give learners an understanding of database vulnerabilities and practical experience in securing them.
+The **SQL Filtering Lab** is designed to showcase practical SQL queries to filter and manipulate data. This project highlights the use of SQL for cybersecurity investigations and organizational data management, all executed within a MariaDB environment on a Kali Linux VM.
 
 ---
 
-## Features
+## Steps and Queries
 
-- **SQL Injection Examples**: Explores various types of SQL injection attacks.
-- **Input Validation**: Highlights techniques to sanitize and validate inputs.
-- **Prepared Statements**: Demonstrates the use of parameterized queries for enhanced security.
-- **Interactive Practice**: Includes a step-by-step guide for users to replicate and mitigate SQL vulnerabilities.
+### **Step 1: Open the MariaDB Shell**
 
----
+**Explanation**: Opened the MariaDB shell to interact with the database on my Kali Linux VM. Accessing the database shell is essential for executing SQL commands directly and managing data effectively.
 
-## Objectives
+**Command Used**: `sudo mysql -u root`
 
-- Understand how SQL injection works and why it is dangerous.
-- Learn techniques to prevent SQL injection in real-world scenarios.
-- Gain practical experience in securing databases through hands-on activities.
+![Open the MariaDB Shell](assets/images/1.png)
 
 ---
 
-## Current Progress
+### **Step 2: Create the Organization Database**
 
-- ✅ Basic SQL injection examples included.
-- ✅ Input validation techniques fully documented.
-- ✅ Parameterized queries and prepared statements tested.
-- 🟡 Advanced SQL filtering methods under review for future additions.
+**Explanation**: Created the organization database as the primary container for storing tables used in the lab. Databases organize data into tables, allowing efficient storage and retrieval of information for analysis.
 
----
-
-## GitHub Repository
-
-[Explore the Repository on GitHub](https://github.com/c-razo/sql-filtering-lab)
+**Command Used**:  
