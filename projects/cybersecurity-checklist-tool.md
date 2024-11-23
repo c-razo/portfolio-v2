@@ -40,27 +40,27 @@ The **Cybersecurity Checklist Tool** is an easy-to-use web application designed 
 ## Visual Demonstrations
 
 ### **1. Starting the Application**
-![Starting the Application](assets/images/cybersecurity-checklist-start.png)  
+![Starting the Application](../assets/images/cybersecurity-checklist-start.png)  
 *The terminal output shows the successful initiation of the application, running locally with Flask.*
 
 ### **2. Welcome Page**
-![Welcome Page](assets/images/cybersecurity-checklist-welcome.png)  
+![Welcome Page](../assets/images/cybersecurity-checklist-welcome.png)  
 *The welcome page greets users with a call-to-action to begin the assessment.*
 
 ### **3. Cybersecurity Checklist (Network Security Section)**
-![Network Security](assets/images/cybersecurity-checklist-network.png)  
+![Network Security](../assets/images/cybersecurity-checklist-network.png)  
 *The Network Security section evaluates firewalls, router security, and Wi-Fi encryption.*
 
 ### **4. Cybersecurity Checklist (Endpoint and Data Security Sections)**
-![Endpoint and Data Security](assets/images/cybersecurity-checklist-endpoint-data.png)  
+![Endpoint and Data Security](../assets/images/cybersecurity-checklist-endpoint-data.png)  
 *Additional sections cover antivirus software, OS updates, and data protection practices.*
 
 ### **5. Results Page**
-![Results Page](assets/images/cybersecurity-checklist-results.png)  
+![Results Page](../assets/images/cybersecurity-checklist-results.png)  
 *The result page provides a security score and improvement recommendations.*
 
 ### **6. Terminal Logs**
-![Terminal Logs](assets/images/cybersecurity-checklist-logs.png)  
+![Terminal Logs](../assets/images/cybersecurity-checklist-logs.png)  
 *The terminal logs user interactions, showcasing backend functionality.*
 
 ---
