@@ -39,6 +39,23 @@ This tool ensures that remote workers can achieve a seamless and secure work exp
 
 ---
 
+## Visuals
+
+#### Complete Workflow
+![Complete Workflow of Remote Work Readiness Checker](../assets/screenshots/complete-workflow.png)
+
+The above image demonstrates the entire workflow of the **Remote Work Readiness Checker**, including:
+- Activating the virtual environment.
+- Running the tool in free mode.
+- Performing system security checks.
+- Running internet speed tests.
+- Enabling premium mode for enhanced features.
+- Accessing premium features like the enhanced security report and detailed speed analysis.
+
+Each step is outlined in detail in the project description above.
+
+---
+
 ## GitHub Repository
 
 [Explore the Repository on GitHub](https://github.com/c-razo/remote-work-readiness-checker)
