@@ -10,9 +10,9 @@ I am a passionate IT and cybersecurity professional with hands-on experience in 
 ---
 
 ## Projects
-- [Remote Work Readiness Checker](projects/remote-work-readiness-checker.md)
-- [FlipGuard](projects/flipguard.md)
-- [Cybersecurity Checklist Tool](projects/cybersecurity-checklist-tool.md)
+- [Remote Work Readiness Checker](/projects/remote-work-readiness-checker.md)
+- [FlipGuard](/projects/flipguard.md)
+- [Cybersecurity Checklist Tool](/projects/cybersecurity-checklist-tool.md)
 
 ---
 
