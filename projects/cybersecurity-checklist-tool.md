@@ -68,3 +68,8 @@ The **Cybersecurity Checklist Tool** is an easy-to-use web application designed 
 ## GitHub Repository
 
 [Explore the Repository on GitHub](https://github.com/c-razo/cybersecurity-checklist-tool)
+
+---
+
+[⬅️ Back to Projects](../README.md)  
+[🔝 Back to Top](#cybersecurity-checklist-tool)
