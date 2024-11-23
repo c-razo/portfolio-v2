@@ -41,3 +41,8 @@ With an emphasis on hands-on experimentation, FlipGuard bridges the gap between 
 ## GitHub Repository
 
 [Explore the Repository on GitHub](https://github.com/c-razo/FlipGuard.io)
+
+---
+
+[⬅️ Back to Projects](../index.md)  
+[🔝 Back to Top](#remote-work-readiness-checker)
