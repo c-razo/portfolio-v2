@@ -1,43 +1,36 @@
-# Network Analysis Lab: Exploring and Securing Network Traffic
+# Network Analysis Lab
 
 **By Christopher Razo**
 
 ---
 
-## Overview
+## Steps and Explanations
 
-The **Network Analysis Lab** provides an in-depth exploration of network traffic monitoring and analysis using tools like Wireshark. It focuses on identifying potential security vulnerabilities, analyzing malicious activity, and improving network defenses.
+### **Step 1. Downloading Wireshark**
+**Explanation**: Screenshot showing the official Wireshark download page for macOS, highlighting the download button. This establishes the source and legitimacy of the software used in the project.
 
-This lab equips learners with practical skills to monitor and secure network environments effectively.
-
----
-
-## Features
-
-- **Traffic Capture**: Demonstrates how to capture network packets using Wireshark.
-- **Protocol Analysis**: Explores protocols such as HTTP, HTTPS, DNS, and more.
-- **Threat Detection**: Teaches how to identify suspicious or malicious activity in network traffic.
-- **Hands-On Scenarios**: Includes real-world examples for practical learning.
+**Screenshot**:  
+![Downloading Wireshark](../assets/images/download-wireshark.png)
 
 ---
 
-## Objectives
+### **Step 2. Installing Wireshark**
+**Explanation**: Screenshot of the Wireshark installer window with the drag-and-drop installation process, documenting how Wireshark was added to the Applications folder on the MacBook Pro.
 
-- Understand the fundamentals of network traffic analysis.
-- Learn to identify vulnerabilities and mitigate risks in network communication.
-- Gain hands-on experience with Wireshark for monitoring and analyzing networks.
-
----
-
-## Current Progress
-
-- ✅ Basic traffic capture exercises documented.
-- ✅ Analysis of common protocols (HTTP, DNS) completed.
-- ✅ Threat detection scenarios integrated.
-- 🟡 Advanced protocol analysis (TLS/SSL) under development.
+**Screenshot**:  
+![Installing Wireshark](../assets/images/install-wireshark.png)
 
 ---
 
-## GitHub Repository
+### **Step 3. Opening Wireshark for the First Time**
+**Explanation**: Screenshot showing the initial Wireshark interface upon launching, capturing any security prompts encountered and confirming that the application is ready for use.
 
-[Explore the Repository on GitHub](https://github.com/c-razo/network-analysis-lab)
+**Screenshot**:  
+![Opening Wireshark for the First Time](../assets/images/open-wireshark.png)
+
+---
+
+## Navigation
+
+[⬅️ Back to Projects](../index.md#projects)  
+[🔝 Back to Top](#network-analysis-lab)
