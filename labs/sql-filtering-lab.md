@@ -32,7 +32,7 @@ CREATE DATABASE organization;
 USE organization;
 ```
 
-![Create the Organization Database](..assets/images/3.png)
+![Create the Organization Database](assets/images/3.png)
 
 ---
 
@@ -52,7 +52,7 @@ CREATE TABLE log_in_attempts (
 );
 ```
 
-![Create the log_in_attempts Table](..assets/images/4.png)
+![Create the log_in_attempts Table](assets/images/4.png)
 
 ---
 
@@ -68,7 +68,7 @@ INSERT INTO log_in_attempts (username, login_time, login_date, success, country)
 ('user3', '20:00:00', '2022-05-08', 0, 'CANADA');
 ```
 
-![Insert Sample Data into log_in_attempts](..assets/images/5.png)
+![Insert Sample Data into log_in_attempts](assets/images/5.png)
 
 ---
 
@@ -82,7 +82,7 @@ SELECT * FROM log_in_attempts
 WHERE login_time > '18:00:00' AND success = 0;
 ```
 
-![Run Query for Task 1 (After-Hours Failed Login Attempts)](..assets/images/6.png)
+![Run Query for Task 1 (After-Hours Failed Login Attempts)](assets/images/6.png)
 
 ---
 
@@ -96,7 +96,7 @@ SELECT * FROM log_in_attempts
 WHERE login_date = '2022-05-08' OR login_date = '2022-05-09';
 ```
 
-![Run Query for Task 2 (Login Attempts on Specific Dates)](..assets/images/7.png)
+![Run Query for Task 2 (Login Attempts on Specific Dates)](assets/images/7.png)
 
 ---
 
@@ -110,7 +110,7 @@ SELECT * FROM log_in_attempts
 WHERE NOT country LIKE 'MEX%';
 ```
 
-![Run Query for Task 3 (Login Attempts Outside of Mexico)](..assets/images/8.png)
+![Run Query for Task 3 (Login Attempts Outside of Mexico)](assets/images/8.png)
 
 ---
 
@@ -128,7 +128,7 @@ CREATE TABLE employees (
 );
 ```
 
-![Create the employees Table](..assets/images/9.png)
+![Create the employees Table](assets/images/9.png)
 
 ---
 
@@ -144,7 +144,7 @@ INSERT INTO employees (username, department, office) VALUES
 ('alevitsk', 'Finance', 'West-210');
 ```
 
-![Insert Sample Data into employees](..assets/images/10.png)
+![Insert Sample Data into employees](assets/images/10.png)
 
 ---
 
@@ -158,7 +158,7 @@ SELECT * FROM employees
 WHERE department = 'Marketing' AND office LIKE 'East%';
 ```
 
-![Run Query for Task 4 (Employees in Marketing, East Building)](..assets/images/11.png)
+![Run Query for Task 4 (Employees in Marketing, East Building)](assets/images/11.png)
 
 ---
 
@@ -172,7 +172,7 @@ SELECT * FROM employees
 WHERE department = 'Finance' OR department = 'Sales';
 ```
 
-![Run Query for Task 5 (Employees in Finance or Sales Departments)](..assets/images/12.png)
+![Run Query for Task 5 (Employees in Finance or Sales Departments)](assets/images/12.png)
 
 ---
 
@@ -186,7 +186,7 @@ SELECT * FROM employees
 WHERE department != 'Information Technology';
 ```
 
-![Run Query for Task 6 (Employees Not in Information Technology)](..assets/images/13.png)
+![Run Query for Task 6 (Employees Not in Information Technology)](assets/images/13.png)
 
 ---
 
