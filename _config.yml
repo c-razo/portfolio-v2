@@ -2,4 +2,4 @@ theme: hacker
 title: Chris Razo's Cybersecurity Portfolio
 description: A professional portfolio showcasing my cybersecurity projects, labs, and skills.
 baseurl: "" # Leave this blank unless the portfolio is in a subdirectory
-url: "https://<your-username>.github.io"
+url: "https://github.com/c-razo/portfolio-v2.git"
