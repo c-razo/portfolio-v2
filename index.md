@@ -38,7 +38,7 @@ Let’s secure the future together!
 
 ---
 
-## Projects
+## Projects <a id="projects"></a>
 - [Remote Work Readiness Checker](./projects/remote-work-readiness-checker.md)
 - [FlipGuard](./projects/flipguard.md)
 - [Cybersecurity Checklist Tool](./projects/cybersecurity-checklist-tool.md)
