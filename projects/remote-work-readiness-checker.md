@@ -30,28 +30,10 @@ This tool ensures that remote workers can achieve a seamless and secure work exp
 
 ---
 
-## Current Progress
+## Visual Demonstration
 
-- ✅ Initial version of the checklist and reporting features completed.
-- ✅ Network diagnostics module implemented and tested.
-- 🟡 Integration with additional security best practices in progress.
-- 🟡 Expanding device-level diagnostics for broader compatibility.
-
----
-
-## Visual Demonstrations
-
-### **1. Starting the Application**
-![Starting the Application](../assets/images/remote-work-readiness-start.png)  
-*The terminal output shows the tool running locally.*
-
-### **2. System Security Check**
-![System Security Check](../assets/images/remote-work-readiness-security-check.png)  
-*Displays the initial system security results.*
-
-### **3. Internet Speed Test**
-![Internet Speed Test](../assets/images/remote-work-readiness-speed-test.png)  
-*Provides details of download and upload speeds with latency.*
+![Complete Workflow](../assets/images/complete-workflow.png)  
+*This single image illustrates the complete workflow of the Remote Work Readiness Checker, showcasing terminal output and key results.*
 
 ---
 
