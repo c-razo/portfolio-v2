@@ -44,5 +44,5 @@ With an emphasis on hands-on experimentation, FlipGuard bridges the gap between 
 
 ---
 
-[⬅️ Back to Projects](../index.md)  
+[⬅️ Back to Projects](../index.md#projects)  
 [🔝 Back to Top](#flipguard)
