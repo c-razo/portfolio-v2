@@ -1,4 +1,3 @@
-
 ---
 title: Remote Work Readiness Checker
 layout: post
