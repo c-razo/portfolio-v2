@@ -1,6 +1,3 @@
-Here is the fully formatted SQL Filtering Lab markdown content, incorporating your provided details, images, and GitHub portfolio integration. You can copy and paste this into your GitHub repository.
-
-```markdown
 # SQL Filtering Lab
 
 **By Christopher Razo**
@@ -197,5 +194,3 @@ WHERE department != 'Information Technology';
 
 [⬅️ Back to Projects](../index.md#projects)  
 [🔝 Back to Top](#sql-filtering-lab)
-```
-
