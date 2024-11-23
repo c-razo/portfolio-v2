@@ -32,7 +32,7 @@ This tool ensures that remote workers can achieve a seamless and secure work exp
 
 ## Visual Demonstration
 
-![Complete Workflow](../assets/images/complete-workflow.png)  
+![Complete Workflow](../assets/screenshots/complete-workflow.png)  
 *This single image illustrates the complete workflow of the Remote Work Readiness Checker, showcasing terminal output and key results.*
 
 ---
