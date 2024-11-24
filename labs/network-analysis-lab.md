@@ -39,7 +39,7 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 **Explanation**: Install Wireshark following the standard macOS installation process. Grant necessary permissions to run the application.
 
 **Screenshot**:  
-![Installation Prompt](screenshots/02-installation-prompt.png)
+![Installation Prompt](../assets/images/install-wireshark.png)
 
 ---
 
