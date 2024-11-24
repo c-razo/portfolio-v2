@@ -55,7 +55,7 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 **Explanation**: Select the appropriate network interface (e.g., Wi-Fi) to capture live network traffic. Click the green start button to begin capturing packets.
 
 **Screenshot**:  
-![Interface Selection]()
+![Interface Selection](../assets/images/04-packet-capture.png)
 
 ---
 
