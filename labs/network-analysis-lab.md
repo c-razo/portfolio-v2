@@ -120,25 +120,23 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 ---
 
 ## Key Learnings
-1. Gained hands-on experience with Wireshark’s interface and filtering features.
-2. Identified patterns in ARP, DNS, TCP, and HTTPS traffic.
-3. Learned to recognize suspicious activity, such as unexpected MAC/IP combinations.
+
+Through this lab, I gained valuable insights into network traffic analysis and the use of Wireshark as a powerful diagnostic tool. Key takeaways include:
+- **Protocol Understanding**: Learned the basics of ARP, DNS, TCP, and HTTPS protocols, including their role in network communication.
+- **Packet Analysis**: Developed skills to capture, filter, and analyze packets to identify patterns, anomalies, and potential security threats.
+- **Cybersecurity Application**: Understood how network analysis can help detect suspicious activities, contributing to effective network security strategies.
+- **Wireshark Features**: Explored the use of Wireshark’s filters, detailed packet information panels, and tools for interpreting encrypted data traffic.
 
 ---
 
-## Next Steps
-1. Export captured traffic for offline analysis.
-2. Apply advanced Wireshark features like custom protocol dissectors.
-3. Explore additional tools to complement Wireshark for network security analysis.
+## Conclusion
+
+The Network Analysis Lab provided hands-on experience with Wireshark to analyze real-world network traffic. This project reinforced my understanding of essential network protocols and introduced practical skills for identifying normal versus suspicious network behavior. By completing this lab, I took an important step toward mastering the foundational tools and techniques used in cybersecurity to safeguard networks from potential threats. It also underscored the importance of methodical and evidence-based network monitoring in professional environments.
 
 ---
 
-## References
-- [Wireshark Official Documentation](https://www.wireshark.org/docs/)
-- [Cybersecurity Portfolio - Christopher Razo](https://c-razo.github.io/portfolio-v2/)
+## Navigation
 
----
+- [⬅️ Back to Portfolio](https://c-razo.github.io/portfolio-v2/)
+- [➡️ Next Lab](#) *(Placeholder for future labs)*
 
-## Notes
-- Ensure screenshots are properly named and uploaded to the `screenshots/` folder within the `portfolio-v2` repository.
-- Confirm all captured data aligns with privacy and ethical guidelines.
