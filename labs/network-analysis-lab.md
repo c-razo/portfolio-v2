@@ -31,7 +31,7 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 - **Action**: Highlight the download button and confirm the version for macOS.
 
 **Screenshot**:  
-![Download Wireshark](screenshots/01-download-wireshark.png)
+![Download Wireshark](../assets/images/download-wireshark.png)
 
 ---
 
@@ -47,7 +47,7 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 **Explanation**: Open Wireshark and allow macOS to run the application. You’ll see the welcome screen listing all available network interfaces.
 
 **Screenshot**:  
-![Welcome Screen](screenshots/03-welcome-screen.png)
+![Welcome Screen](../assets/images/open-wireshark.png)
 
 ---
 
@@ -55,7 +55,7 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 **Explanation**: Select the appropriate network interface (e.g., Wi-Fi) to capture live network traffic. Click the green start button to begin capturing packets.
 
 **Screenshot**:  
-![Interface Selection](screenshots/04-interface-selection.png)
+![Interface Selection]()
 
 ---
 
