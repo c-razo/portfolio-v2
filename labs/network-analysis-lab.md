@@ -64,24 +64,12 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 **Explanation:** Use filters to focus on specific types of network traffic. This lab examines the following protocols:
 
 1. **ARP (Address Resolution Protocol)** – Maps IP addresses to MAC addresses.
-   - Screenshot:
    
-     ![ARP Packet Capture](../assets/images/arp.png)  
-
 2. **DNS (Domain Name System)** – Resolves domain names to IP addresses.
-   - Screenshot:
    
-     ![DNS Packet Capture](../assets/images/dns.png)
-
 3. **TCP (Transmission Control Protocol)** – Handles reliable data transmission.
-   - Screenshot:
    
-     ![TCP Packet Capture](../assets/images/tcp.png)
-
 4. **HTTPS (Hypertext Transfer Protocol Secure)** – Encrypts web traffic.
-   - Screenshot:
-   
-     ![HTTP Packet Capture](../assets/images/http.png)
 
 ---
 
@@ -93,7 +81,7 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 - Sender MAC: `46:c6:f7:33:ed:5d`
 
 **Screenshot**:  
-![ARP Analysis](screenshots/06-arp-analysis.png)
+![ARP Packet Capture](../assets/images/arp.png)  
 ![ARP Packet Capture](../assets/images/arp2.png)
 ![ARP Packet Capture](../assets/images/arp-investigate.png)
 
@@ -106,7 +94,7 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 - No anomalies were observed in DNS queries during this capture.
 
 **Screenshot**:  
-![DNS Analysis](screenshots/07-dns-analysis.png)
+![DNS Packet Capture](../assets/images/dns.png)
 
 ---
 
@@ -119,7 +107,7 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 - Protocol: TLSv1.2
 
 **Screenshot**:  
-![TCP Analysis](screenshots/08-tcp-analysis.png)
+![TCP Packet Capture](../assets/images/tcp.png)
 
 ---
 
@@ -131,7 +119,7 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 - Common endpoints include known services like Apple and Google.
 
 **Screenshot**:  
-![HTTPS Analysis](screenshots/09-https-analysis.png)
+![HTTP Packet Capture](../assets/images/http.png)
 
 ---
 
