@@ -48,6 +48,11 @@ The (ISC)² Certified in Cybersecurity (CC) certification establishes a solid fo
 
 ---
 
+## Credential
+- [View](ISC2-CC-Certification.pdf)
+
+---
+
 ## Navigation
 - [⬅️ Back to Projects](https://c-razo.github.io/portfolio-v2/#projects)
 - [⬆️ Back to Top](#isc2-certified-in-cybersecurity-cc)
