@@ -3,7 +3,7 @@
 Explore my projects, labs, certifications, and more below!
 
 ## About Me
-- [Learn More](./about/aboutme.md)
+- [Learn More](about/about.md)
 
 ---
 
