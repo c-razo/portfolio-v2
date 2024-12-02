@@ -1,7 +1,5 @@
 # CompTIA Security+ Certification
 
-By Christopher Razo
-
 ---
 
 ## Overview
