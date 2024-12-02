@@ -1,6 +1,6 @@
 # Password Cracking Lab: Enhancing Security Through Ethical Hacking
 
-**By Christopher Razo**
+**By Chris Razo**
 
 ---
 
