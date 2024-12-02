@@ -60,11 +60,29 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 ---
 
 ### Step 5. Filtering Packets by Protocols
-**Explanation**: Use filters to focus on specific types of network traffic. This lab examines the following protocols:
-1. **ARP** (Address Resolution Protocol) – Maps IP addresses to MAC addresses.
-2. **DNS** (Domain Name System) – Resolves domain names to IP addresses.
-3. **TCP** (Transmission Control Protocol) – Handles reliable data transmission.
-4. **HTTPS** (Hypertext Transfer Protocol Secure) – Encrypts web traffic.
+
+**Explanation:** Use filters to focus on specific types of network traffic. This lab examines the following protocols:
+
+1. **ARP (Address Resolution Protocol)** – Maps IP addresses to MAC addresses.
+   - Screenshot:
+   
+     ![ARP Packet Capture](screenshots/arp-filter.png)
+
+2. **DNS (Domain Name System)** – Resolves domain names to IP addresses.
+   - Screenshot:
+   
+     ![DNS Packet Capture](screenshots/dns-filter.png)
+
+3. **TCP (Transmission Control Protocol)** – Handles reliable data transmission.
+   - Screenshot:
+   
+     ![TCP Packet Capture](screenshots/tcp-filter.png)
+
+4. **HTTPS (Hypertext Transfer Protocol Secure)** – Encrypts web traffic.
+   - Screenshot:
+   
+     ![HTTPS Packet Capture](screenshots/https-filter.png)
+
 
 **Screenshot**:  
 ![Packet Capture](screenshots/05-packet-capture.png)
