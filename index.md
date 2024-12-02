@@ -1,6 +1,9 @@
 # Welcome to My Portfolio
 
-Explore my projects, labs, certifications, and contact details below.
+Explore my projects, labs, certifications, and more below!
+
+## About Me
+- [Get To Know Me](./about/aboutme.md)
 
 ---
 
