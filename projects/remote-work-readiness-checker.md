@@ -44,4 +44,4 @@ This tool ensures that remote workers can achieve a seamless and secure work exp
 ---
 
 [⬅️ Back to Projects](../index.md#projects)  
-[🔝 Back to Top](#remote-work-readiness-checker)
+[⬆️ Back to Top](#remote-work-readiness-checker)
