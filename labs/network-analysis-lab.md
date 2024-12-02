@@ -66,13 +66,7 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 1. **ARP (Address Resolution Protocol)** – Maps IP addresses to MAC addresses.
    - Screenshot:
    
-     ![ARP Packet Capture](../assets/images/arp.png)
-     
-     ![ARP Packet Capture](../assets/images/arp2.png)
-
-     ![ARP Packet Capture](../assets/images/arp-investigate.png)
-
-
+     ![ARP Packet Capture](../assets/images/arp.png)  
 
 2. **DNS (Domain Name System)** – Resolves domain names to IP addresses.
    - Screenshot:
@@ -100,6 +94,8 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 
 **Screenshot**:  
 ![ARP Analysis](screenshots/06-arp-analysis.png)
+![ARP Packet Capture](../assets/images/arp2.png)
+![ARP Packet Capture](../assets/images/arp-investigate.png)
 
 ---
 
