@@ -18,10 +18,10 @@ Explore my projects, labs, certifications, and contact details below.
 
 ---
 
-## Recent Learning
-- [CompTIA Security+](./certs/comptia.md)
-- [ISC2 Certified in Cybersecurity](./certs/isc2.md)
-- [Google Cybersecurity Certificate](./certs/google.md)
+## Recent Learning and Future Credentials
+- [LinkedIn Learning](./recent/linkedin-learning.md)
+- [Salesforce](./recent/salesforce.md)
+- [Azure](./recent/azure.md)
 
 ---
 
