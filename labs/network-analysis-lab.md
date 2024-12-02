@@ -66,26 +66,32 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 1. **ARP (Address Resolution Protocol)** – Maps IP addresses to MAC addresses.
    - Screenshot:
    
-     ![ARP Packet Capture](screenshots/arp-filter.png)
+     ![ARP Packet Capture](assets/images/arp.png)
+     
+     ![ARP Packet Capture](assets/images/arp2.png)
+
+     ![ARP Packet Capture](assets/images/arp-investigate.png)
+
+
 
 2. **DNS (Domain Name System)** – Resolves domain names to IP addresses.
    - Screenshot:
    
-     ![DNS Packet Capture](screenshots/dns-filter.png)
+     ![DNS Packet Capture](assets/images/dns.png)
 
 3. **TCP (Transmission Control Protocol)** – Handles reliable data transmission.
    - Screenshot:
    
-     ![TCP Packet Capture](screenshots/tcp-filter.png)
+     ![TCP Packet Capture](assets/images/tcp.png)
 
 4. **HTTPS (Hypertext Transfer Protocol Secure)** – Encrypts web traffic.
    - Screenshot:
    
-     ![HTTPS Packet Capture](screenshots/https-filter.png)
+     ![HTTPS Packet Capture](assets/images/http.png)
 
 
 **Screenshot**:  
-![Packet Capture](screenshots/05-packet-capture.png)
+![Packet Capture](assets/images/04-packet-capture.png)
 
 ---
 
