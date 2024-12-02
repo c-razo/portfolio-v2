@@ -119,7 +119,12 @@ This lab documents the process of using Wireshark to capture, analyze, and inter
 - Common endpoints include known services like Apple and Google.
 
 **Screenshot**:  
-![HTTP Packet Capture](../assets/images/http.png)
+![HTTP Packet Capture](../assets/images/https1.png)
+![HTTP Packet Capture](../assets/images/https2.png)
+![HTTP Packet Capture](../assets/images/https3.png)
+![HTTP Packet Capture](../assets/images/https4.png)
+![HTTP Packet Capture](../assets/images/https5.png)
+![HTTP Packet Capture](../assets/images/https6.png)
 
 ---
 
