@@ -7,6 +7,13 @@ Explore my projects, labs, certifications, and more below!
 
 ---
 
+## Contact Me
+- [Email Me](mailto:christopher.razo@icloud.com)
+- [LinkedIn](https://linkedin.com/in/christopher-razo)
+- [Resume](assets/resume/cr-resume.pdf)
+
+---
+
 ## Projects <a id="projects"></a>
 - [Remote Work Readiness Checker](./projects/remote-work-readiness-checker.md)
 - [FlipGuard](./projects/flipguard.md)
@@ -32,10 +39,3 @@ Explore my projects, labs, certifications, and more below!
 - [LinkedIn Learning](./recent/linkedin-learning.md)
 - [Salesforce](./recent/salesforce.md)
 - [Azure](./recent/azure.md)
-
----
-
-## Contact Me
-- [Email Me](mailto:christopher.razo@icloud.com)
-- [LinkedIn](https://linkedin.com/in/christopher-razo)
-- [Resume](assets/resume/cr-resume.pdf)
