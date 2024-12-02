@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-A professional portfolio showcasing my projects, labs, and skills. Explore my projects, labs, certifications, and more below!
+A professional portfolio showcasing my projects, labs, and credentials - feel free to explore!
 
 ## About Me
 - [Learn More](about/about.md)
