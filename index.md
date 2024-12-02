@@ -1,6 +1,8 @@
 # Welcome to My Portfolio
 
-A professional portfolio showcasing my projects, labs, and credentials - feel free to explore!
+Click a link below to learn more.
+
+---
 
 ## About Me
 - [Learn More](about/about.md)
