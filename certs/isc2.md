@@ -1,7 +1,5 @@
 # (ISC)² Certified in Cybersecurity (CC) Certification
 
-By Christopher Razo
-
 ---
 
 ## Overview
