@@ -19,9 +19,9 @@ Explore my projects, labs, certifications, and contact details below.
 ---
 
 ## Credentials
-- [CompTIA Security+](./assets/certifications/CompTIA-Security-Plus-Certificate.pdf)
-- [ISC2 Certified in Cybersecurity](./assets/certifications/ISC2-CC-Certification.pdf)
-- [Google Cybersecurity Certificate](./assets/certifications/Google-Cybersecurity-Certificate.pdf)
+- [CompTIA Security+](../credentials/comptia)
+- [ISC2 Certified in Cybersecurity](../credentials/isc2)
+- [Google Cybersecurity Certificate](../credentials/google)
 
 ---
 
