@@ -28,7 +28,7 @@ Explore my projects, labs, certifications, and contact details below.
 ## Contact Me
 - [Email Me](mailto:christopher.razo@icloud.com)
 - [LinkedIn](https://linkedin.com/in/christopher-razo)
-- [Download My Resume](../assets/certifications/CR-Resume.pdf)
+- [Resume](../assets/certifications/CR-Resume.pdf)
 
 ### **About Me**
 
