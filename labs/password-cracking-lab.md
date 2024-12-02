@@ -70,3 +70,7 @@ This project demonstrated the importance of strong passwords and the effectivene
 
 
 ![Hashcat Limitations on Kali Linux VM via VMWare Fusion for MacOS](../assets/images/Hashcat-2.png)
+
+- [⬅️ Back to Labs](https://c-razo.github.io/portfolio-v2)
+- [⬆️ Back to Top](#password-cracking-lab.md)
+
