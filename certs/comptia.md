@@ -51,7 +51,7 @@ The CompTIA Security+ certification marks an important milestone in my cybersecu
 ---
 
 ## Credential
-- [View](certs/CompTIA-Security-Plus-Certificate.pdf)
+- [View](CompTIA-Security-Plus-Certificate.pdf)
 
 ---
 
