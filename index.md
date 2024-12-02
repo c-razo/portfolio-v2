@@ -1,4 +1,4 @@
-# Welcome to My Cybersecurity Portfolio
+# Welcome to My Portfolio
 
 Explore my projects, labs, certifications, and contact details below.
 
