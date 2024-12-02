@@ -35,7 +35,9 @@ Explore my projects, labs, certifications, and more below!
 
 ---
 
+<!-- 
 ## Other Learning
 - [LinkedIn Learning](./recent/linkedin-learning.md)
 - [Salesforce](./recent/salesforce.md)
 - [Azure](./recent/azure.md)
+-->
