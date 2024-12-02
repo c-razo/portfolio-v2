@@ -26,11 +26,11 @@ Explore my projects, labs, certifications, and more below!
 - [ISC2 Certified in Cybersecurity](./certs/isc2.md)
 - [Google Cybersecurity Certificate](./certs/google.md)
 
-```## Other Learning
+## Other Learning
 - [LinkedIn Learning](./recent/linkedin-learning.md)
 - [Salesforce](./recent/salesforce.md)
 - [Azure](./recent/azure.md)
-```
+
 ---
 
 ## Contact Me
