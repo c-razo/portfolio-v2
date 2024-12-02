@@ -1,7 +1,5 @@
 # Google Cybersecurity Certificate
 
-By Christopher Razo
-
 ---
 
 ## Overview
