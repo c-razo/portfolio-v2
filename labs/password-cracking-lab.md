@@ -35,7 +35,8 @@ This project aims to educate learners on how attackers exploit weak passwords an
 
 I set up my Kali Linux Debian VM on VMware Fusion, allocating 2 processor cores and 20 GB of storage. Below is a screenshot of the setup environment.
 
-![Enviroment Setup](Eviroment-Setup.png)
+![Enviroment Setup](../assets/images/Eviroment-Setup.png)
+
 
 ---
 
@@ -43,7 +44,7 @@ I set up my Kali Linux Debian VM on VMware Fusion, allocating 2 processor cores 
 
 After setting up the environment, I installed John the Ripper and Hashcat. Hereâ€™s the command and installation confirmation:
 
-![Installation of Tools](Install-John-and-Hashcat.png)
+![Installation of Tools](../assets/images/Install-John-and-Hashcat.png)
 
 ---
 
@@ -51,7 +52,7 @@ After setting up the environment, I installed John the Ripper and Hashcat. Hereâ
 
 I generated a hashed password and stored it in a file named `hash.txt`. This hash was created with SHA-512, providing a strong encryption method.
 
-![Password Hash Creation](Create-Sample-Password-Hash.png)
+![Password Hash Creation](../assets/images/Create-Sample-Password-Hash.png)
 
 ---
 
@@ -59,7 +60,7 @@ I generated a hashed password and stored it in a file named `hash.txt`. This has
 
 I used John the Ripper to crack the password hash. Here is the successful result showing the cracked password:
 
-![John the Ripper Cracking Result](John-3.png)
+![John the Ripper Cracking Result](../assets/images/John-3.png)
 
 ---
 
@@ -68,4 +69,4 @@ I used John the Ripper to crack the password hash. Here is the successful result
 This project demonstrated the importance of strong passwords and the effectiveness of various password-cracking tools. I also encountered resource limitations in my VM, which helped me understand the importance of hardware in security testing.
 
 
-![Hashcat Limitations on Kali Linux VM via VMWare Fusion for MacOS](Hashcat-2.png)
+![Hashcat Limitations on Kali Linux VM via VMWare Fusion for MacOS](../assets/images/Hashcat-2.png)
