@@ -50,7 +50,10 @@ The CompTIA Security+ certification marks an important milestone in my cybersecu
 
 ---
 
+## Credential
 - [View](certs/CompTIA-Security-Plus-Certificate.pdf)
+
+---
 
 ## Navigation
 - [⬅️ Back to Projects](https://c-razo.github.io/portfolio-v2/#projects)
