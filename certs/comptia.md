@@ -1,14 +1,14 @@
 # CompTIA Security+ Certification
 
----
-
-## Credential
-- [View](CompTIA-Security-Plus-Certificate.pdf)
-
 --- 
 
 ## Overview
 The CompTIA Security+ certification is a globally recognized credential that validates core knowledge and skills in cybersecurity. It is vendor-neutral and is widely regarded as an essential starting point for cybersecurity professionals. Offered by CompTIA, a leading provider of IT certifications, Security+ is often considered the gold standard for foundational cybersecurity expertise.
+
+---
+
+## Credential
+- [View](CompTIA-Security-Plus-Certificate.pdf)
 
 ---
 
