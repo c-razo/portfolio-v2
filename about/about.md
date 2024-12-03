@@ -1,7 +1,5 @@
 # About Me
 
-By Chris Razo  
-
 ---
 
 ## Overview
