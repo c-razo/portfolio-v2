@@ -41,7 +41,7 @@ Thank you for stopping by. Together, let’s secure the digital future! 🚀
 
 ---
 
-## Credentials
+## Certifications
 - [CompTIA Security+](./certs/comptia.md)
 - [ISC2 Certified in Cybersecurity](./certs/isc2.md)
 - [Google Cybersecurity Certificate](./certs/google.md)
