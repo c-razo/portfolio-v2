@@ -6,10 +6,11 @@ Here, you'll find a mix of real-world solutions, hands-on labs, and innovative t
 
 Feel free to explore:
 
+- **About Me**: Learn more about my journey from fitness to cybersecurity and what drives my passion for this field.
+- **Contact Me**: 
 - **Projects**: Dive into tools and solutions I've created to enhance cybersecurity practices.  
 - **Labs**: Walk through my hands-on experiments analyzing networks, testing security vulnerabilities, and more.  
 - **Certifications**: See the credentials that back my expertise and dedication to the field.  
-- **About Me**: Learn more about my journey from fitness to cybersecurity and what drives my passion for this field.
 
 Thank you for stopping by. Together, let’s secure the digital future! 🚀
 
@@ -17,13 +18,13 @@ Thank you for stopping by. Together, let’s secure the digital future! 🚀
 
 ## About Me
 - [Learn More](about/about.md)
+- [Resume](assets/resume/cr-resume.pdf)
 
 ---
 
 ## Contact Me
 - [Email Me](mailto:christopher.razo@icloud.com)
 - [LinkedIn](https://linkedin.com/in/christopher-razo)
-- [Resume](assets/resume/cr-resume.pdf)
 
 ---
 
