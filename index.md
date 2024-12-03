@@ -16,15 +16,15 @@ Thank you for stopping by. Together, let’s secure the digital future! 🚀
 
 ---
 
-## About Me
-- [Learn More](about/about.md)
-- [Resume](assets/resume/cr-resume.pdf)
-
----
-
 ## Contact Me
 - [Email Me](mailto:christopher.razo@icloud.com)
 - [LinkedIn](https://linkedin.com/in/christopher-razo)
+
+---
+
+## About Me
+- [Learn More](about/about.md)
+- [Resume](assets/resume/cr-resume.pdf)
 
 ---
 
