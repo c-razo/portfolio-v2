@@ -23,8 +23,8 @@ Thank you for stopping by. Together, let’s secure the digital future! 🚀
 ---
 
 ## About Me
-- [Learn More](about/about.md)
 - [Resume](assets/resume/cr-resume.pdf)
+- [Learn More](about/about.md)
 
 ---
 
