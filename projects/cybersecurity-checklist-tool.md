@@ -1,6 +1,6 @@
 # Cybersecurity Checklist Tool
 
-**By Christopher Razo**
+**By Chris Razo**
 
 ---
 
