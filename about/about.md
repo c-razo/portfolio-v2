@@ -1,8 +1,5 @@
 # About Me
 
-
-## Overview
-
 Hi there! My name is Chris Razo, and I am a passionate IT and cybersecurity professional with a unique background in fitness and health coaching. I bring together a strong foundation in technical skills, a drive for continuous learning, and a deep commitment to protecting systems and data in today’s digital world.
 
 ---
