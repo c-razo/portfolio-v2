@@ -54,6 +54,6 @@ The Google Cybersecurity Certificate is an excellent starting point for aspiring
 ---
 
 ## Navigation
-[⬅️ Back to Projects](https://c-razo.github.io/portfolio-v2/#projects)
+[⬅️ Back to Certifications](https://c-razo.github.io/portfolio-v2/#projects)
 
 [⬆️ Back to Top](#google-cybersecurity-certificate)
