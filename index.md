@@ -12,7 +12,7 @@ Feel free to explore:
 - [**Labs**](https://c-razo.github.io/portfolio-v2/#labs): Walk through my hands-on experiments analyzing networks, testing security vulnerabilities, and more.  
 - [**Certifications**](https://c-razo.github.io/portfolio-v2/#certifications): See the credentials that back my expertise and dedication to the field.  
 
-Thank you for stopping by. Together, let’s secure the digital future! 🚀
+Thank you for stopping by. Together, let’s secure the digital future! 
 
 ---
 
