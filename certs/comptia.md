@@ -56,5 +56,6 @@ The CompTIA Security+ certification marks an important milestone in my cybersecu
 ---
 
 ## Navigation
-- [⬅️ Back to Home](https://c-razo.github.io/portfolio-v2/#projects)
-- [⬆️ Back to Top](#comptia-security-certification)
+[⬅️ Back to Home](https://c-razo.github.io/portfolio-v2/#projects)
+
+[⬆️ Back to Top](#comptia-security-certification)
