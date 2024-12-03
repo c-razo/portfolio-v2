@@ -1,6 +1,6 @@
 # SQL Filtering Lab
 
-**By Christopher Razo**
+**By Chris Razo**
 
 ---
 
