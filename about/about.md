@@ -64,5 +64,5 @@ I bring a unique perspective to cybersecurity. My technical knowledge, combined 
 
 ## Navigation
 
-- [⬅️ Back to Home](https://c-razo.github.io/portfolio-v2)
-- [⬆️ Back to Top](#about-me)  
+[⬅️ Back to Home](https://c-razo.github.io/portfolio-v2)
+[⬆️ Back to Top](#about-me)  
