@@ -191,6 +191,6 @@ WHERE department != 'Information Technology';
 ---
 
 ## Navigation
+[⬅️ Back to Labs](../index.md#projects) 
 
-[⬅️ Back to Labs](../index.md#projects)  
 [⬆️ Back to Top](#sql-filtering-lab)
