@@ -7,6 +7,11 @@ The (ISC)² Certified in Cybersecurity (CC) certification is an entry-level cred
 
 ---
 
+## Credential
+- [View](ISC2-CC-Certification.pdf)
+
+---
+
 ## Objectives
 - Gain foundational knowledge in cybersecurity concepts, principles, and practices.
 - Understand core topics such as access control, network security, and threat management.
@@ -45,11 +50,6 @@ Earning this certification demonstrates an understanding of basic cybersecurity 
 
 ## Conclusion
 The (ISC)² Certified in Cybersecurity (CC) certification establishes a solid foundation for my cybersecurity career. By earning this credential, I have demonstrated my understanding of fundamental cybersecurity principles and my commitment to protecting digital assets. This certification serves as a stepping stone toward more advanced roles and certifications in the field.
-
----
-
-## Credential
-- [View](ISC2-CC-Certification.pdf)
 
 ---
 
