@@ -146,6 +146,7 @@ The Network Analysis Lab provided hands-on experience with Wireshark to analyze 
 
 ## Navigation
 [⬅️ Back to Labs](https://c-razo.github.io/portfolio-v2/#projects)
+
 [⬆️ Back to Top](#network-analysis-lab)
 
 
