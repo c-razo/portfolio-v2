@@ -52,6 +52,7 @@ Earning this certificate demonstrates a strong grasp of core cybersecurity conce
 The Google Cybersecurity Certificate is an excellent starting point for aspiring cybersecurity professionals. By completing this certification, I gained both theoretical knowledge and hands-on experience that prepares me for real-world challenges in the cybersecurity industry. This program highlights Google’s commitment to fostering talent and bridging the skills gap in a rapidly evolving field.
 
 ---
+
 ## Navigation
 [⬅️ Back to Projects](https://c-razo.github.io/portfolio-v2/#projects)
 
