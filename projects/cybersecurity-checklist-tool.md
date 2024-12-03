@@ -71,5 +71,6 @@ The **Cybersecurity Checklist Tool** is an easy-to-use web application designed 
 ---
 
 ## Navigation
-[⬅️ Back to Projects](../index.md#projects)  
+[⬅️ Back to Projects](../index.md#projects)
+
 [⬆️ Back to Top](#cybersecurity-checklist-tool)
