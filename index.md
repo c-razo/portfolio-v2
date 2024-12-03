@@ -49,10 +49,6 @@ Thank you for stopping by. Together, let’s secure the digital future! 🚀
 
 ---
 
-## Navigation
-
-[⬆️ Back to Top](#index)
-
 <!-- 
 ## Other Learning
 - [LinkedIn Learning](./recent/linkedin-learning.md)
