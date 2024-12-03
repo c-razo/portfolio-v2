@@ -6,7 +6,7 @@ Here, you'll find a mix of real-world solutions, hands-on labs, and innovative t
 
 Feel free to explore:
 
-- [**About Me**](https://c-razo.github.io/portfolio-v2/about-me/): Learn more about my journey from fitness to cybersecurity and what drives my passion for this field.
+- [**About Me**](about/about.md): Learn more about my journey from fitness to cybersecurity and what drives my passion for this field.
 - [**Contact Me**](https://c-razo.github.io/portfolio-v2/#contact-me): Get in touch with me via email or LinkedIn.
 - [**Projects**](https://c-razo.github.io/portfolio-v2/#projects): Dive into tools and solutions I've created to enhance cybersecurity practices.  
 - [**Labs**](https://c-razo.github.io/portfolio-v2/#labs): Walk through my hands-on experiments analyzing networks, testing security vulnerabilities, and more.  
