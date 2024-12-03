@@ -74,6 +74,6 @@ This project demonstrated the importance of strong passwords and the effectivene
 ---
 
 ## Navigation
-- [⬅️ Back to Labs](https://c-razo.github.io/portfolio-v2)
-- [⬆️ Back to Top](#password-cracking-lab-enhancing-security-through-ethical-hacking)
+[⬅️ Back to Labs](https://c-razo.github.io/portfolio-v2)
+[⬆️ Back to Top](#password-cracking-lab-enhancing-security-through-ethical-hacking)
 
