@@ -7,6 +7,11 @@ The Google Cybersecurity Certificate, offered through Coursera, is an entry-leve
 
 ---
 
+## Credential
+- [View](Google-Cybersecurity-Certificate.pdf)
+
+---
+
 ## Objectives
 - Gain a foundational understanding of cybersecurity principles.
 - Learn practical skills for securing networks and systems.
@@ -45,11 +50,6 @@ Earning this certificate demonstrates a strong grasp of core cybersecurity conce
 
 ## Conclusion
 The Google Cybersecurity Certificate is an excellent starting point for aspiring cybersecurity professionals. By completing this certification, I gained both theoretical knowledge and hands-on experience that prepares me for real-world challenges in the cybersecurity industry. This program highlights Google’s commitment to fostering talent and bridging the skills gap in a rapidly evolving field.
-
----
-
-## Credential
-- [View](Google-Cybersecurity-Certificate.pdf)
 
 ---
 ## Navigation
