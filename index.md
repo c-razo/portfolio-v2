@@ -30,7 +30,7 @@ Thank you for stopping by. Together, let’s secure the digital future!
 
 ## Projects <a id="projects"></a>
 - [Remote Work Readiness Checker](./projects/remote-work-readiness-checker.md)
-- [Simple Ticketing System](./projects/simple-ticketing-system.md)
+- [Ticketing System](./projects/ticketing-system.md)
 - [Cybersecurity Checklist Tool](./projects/cybersecurity-checklist-tool.md)
 
 ---
