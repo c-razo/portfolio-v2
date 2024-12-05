@@ -1,80 +1,58 @@
-# Ticketing System
+### **Ticketing System Project**
 
-**By Chris Razo**
+#### **Project Overview**
+This is a fully-functional ticketing system built with Flask and SQLite, featuring user authentication using JWT (JSON Web Tokens). The system allows users to register, log in, submit support tickets, and view the status of their tickets. It's designed to help manage support requests in an intuitive and secure manner.
 
----
+#### **Technologies Used**
+- **Backend**: Python, Flask
+- **Database**: SQLite
+- **Authentication**: JWT (JSON Web Tokens)
+- **Frontend**: HTML, CSS (via templates in Flask)
 
-## Overview
+#### **Features**
+- **User Registration**: Allows new users to create an account.
+- **User Login**: Provides a login system where users can authenticate via email and password.
+- **Ticket Submission**: Authenticated users can submit new tickets, which are stored in the database.
+- **Ticket Viewing**: Users can view a list of their tickets and their statuses.
+- **Ticket Resolution**: Agents can mark tickets as resolved.
 
-The **Ticketing System** is a full-stack web application designed to help businesses manage customer support tickets. It allows users to submit tickets, track their statuses, and provides an admin panel for agents to resolve issues efficiently. The system streamlines the ticket management process, offering a simple yet powerful solution for customer support.
+#### **Installation Instructions**
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/c-razo/ticketing-system.git
+    cd ticketing-system
+    ```
+2. **Set up a virtual environment:**
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On macOS/Linux
+    venv\Scripts\activate     # On Windows
+    ```
+3. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. **Run the application:**
+    ```bash
+    python backend/app.py
+    ```
+5. **Navigate to** `http://127.0.0.1:5000` in your browser to access the app.
 
----
+#### **Screenshots**
+- **Login Page**  
+   ![Login Page](https://raw.githubusercontent.com/c-razo/ticketing-system/main/assets/login.png)
+- **Tickets Page**  
+   ![Tickets Page](https://raw.githubusercontent.com/c-razo/ticketing-system/main/assets/tickets.png)
 
-## Features
+#### **Demo**
+Check out the live demo on [Heroku](https://link-to-heroku-app.com) or [GitHub Pages](https://link-to-github-pages.com) for a quick preview (if applicable).
 
-- **User Authentication**: Users can create accounts, log in, and submit support tickets.
-- **Ticket Management**: Support agents can view, assign, and close tickets.
-- **Admin Panel**: Administrators can manage users, view all tickets, and perform data analytics.
-- **Responsive Design**: The frontend is fully responsive, offering a seamless experience across devices.
-- **Database Integration**: Stores ticket data, user information, and ticket statuses in a structured database.
-- **Search & Filter**: Tickets can be filtered based on various criteria, such as priority or status.
+#### **Challenges**
+- Implementing JWT authentication securely
+- Handling user sessions in a stateless environment
+- Managing and tracking ticket statuses
 
----
-
-## Objectives
-
-- Simplify the management of customer support tickets.
-- Provide users with an easy way to track and submit issues.
-- Equip support agents with the tools they need to efficiently resolve tickets.
-- Enable administrators to have full control over the system and its data.
-- Offer a flexible, customizable platform for different organizational needs.
-
----
-
-## Current Progress
-
-- ✅ Developed a full-stack ticketing system with user authentication.
-- ✅ Implemented an admin panel for ticket and user management.
-- ✅ Integrated a responsive frontend design that works across all devices.
-- 🟡 Planning to add email notifications and advanced reporting features.
-- 🟡 Working on API integration for external system compatibility.
-
----
-
-## Visual Demonstrations
-
-### **1. Home Page**
-![Home Page](https://github.com/c-razo/ticketing-system/blob/main/assets/1.png)  
-*The home page allows users to log in or register to submit tickets.*
-
-### **2. Ticket Dashboard (Admin Panel)**
-![Ticket Dashboard](https://github.com/c-razo/ticketing-system/blob/main/assets/2.png)  
-*The admin panel provides a comprehensive overview of all tickets, allowing administrators to manage them.*
-
-### **3. Ticket Submission Form**
-![Ticket Submission](https://github.com/c-razo/ticketing-system/blob/main/assets/3.png)  
-*Users can easily submit new tickets with a simple form that collects necessary information.*
-
-### **4. Ticket View Page**
-![Ticket View](https://github.com/c-razo/ticketing-system/blob/main/assets/4.png)  
-*Each ticket has a detailed view, allowing users and agents to track the status and updates.*
-
-### **5. Admin User Management**
-![Admin User Management](https://github.com/c-razo/ticketing-system/blob/main/assets/5.png)  
-*The admin panel includes user management features to assign support agents and monitor user activity.*
-
-### **6. Terminal Logs**
-![Terminal Logs](https://github.com/c-razo/ticketing-system/blob/main/assets/6.png)  
-*The terminal logs show the application's backend interactions for troubleshooting and debugging.*
-
----
-
-## GitHub Repository
-[Explore the Repository on GitHub](https://github.com/c-razo/ticketing-system)
-
----
-
-## Navigation
-[⬅️ Back to Projects](../index.md#projects)
-
-[⬆️ Back to Top](#ticketing-system)
+#### **Future Improvements**
+- Add email notifications for ticket updates
+- Integrate with an external ticketing platform for advanced features
+- Add an admin panel for agents to manage tickets more efficiently
