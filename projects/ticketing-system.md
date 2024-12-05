@@ -44,27 +44,27 @@ The **Ticketing System** is a full-stack web application designed to help busine
 ## Visual Demonstrations
 
 ### **1. Home Page**
-![Home Page](https://github.com/c-razo/ticketing-system/blob/main/misc/Screenshot%202024-11-20%20at%2006.22.21.png)  
+![Home Page](https://github.com/c-razo/ticketing-system/blob/main/assets/1.png)  
 *The home page allows users to log in or register to submit tickets.*
 
 ### **2. Ticket Dashboard (Admin Panel)**
-![Ticket Dashboard](https://github.com/c-razo/ticketing-system/blob/main/misc/Screenshot%202024-11-20%20at%2006.23.21.png)  
+![Ticket Dashboard](https://github.com/c-razo/ticketing-system/blob/main/assets/2.png)  
 *The admin panel provides a comprehensive overview of all tickets, allowing administrators to manage them.*
 
 ### **3. Ticket Submission Form**
-![Ticket Submission](https://github.com/c-razo/ticketing-system/blob/main/misc/Screenshot%202024-11-20%20at%2006.25.35.png)  
+![Ticket Submission](https://github.com/c-razo/ticketing-system/blob/main/assets/3.png)  
 *Users can easily submit new tickets with a simple form that collects necessary information.*
 
 ### **4. Ticket View Page**
-![Ticket View](https://github.com/c-razo/ticketing-system/blob/main/misc/Screenshot%202024-11-20%20at%2006.27.45.png)  
+![Ticket View](https://github.com/c-razo/ticketing-system/blob/main/assets/4.png)  
 *Each ticket has a detailed view, allowing users and agents to track the status and updates.*
 
 ### **5. Admin User Management**
-![Admin User Management](https://github.com/c-razo/ticketing-system/blob/main/misc/Screenshot%202024-11-20%20at%2006.29.50.png)  
+![Admin User Management](https://github.com/c-razo/ticketing-system/blob/main/assets/5.png)  
 *The admin panel includes user management features to assign support agents and monitor user activity.*
 
 ### **6. Terminal Logs**
-![Terminal Logs](https://github.com/c-razo/ticketing-system/blob/main/misc/Screenshot%202024-11-20%20at%2006.31.10.png)  
+![Terminal Logs](https://github.com/c-razo/ticketing-system/blob/main/assets/6.png)  
 *The terminal logs show the application's backend interactions for troubleshooting and debugging.*
 
 ---
