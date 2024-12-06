@@ -45,7 +45,7 @@ This is a fully-functional ticketing system built with Flask and SQLite, featuri
    ![Tickets Page](https://raw.githubusercontent.com/c-razo/ticketing-system/main/assets/tickets.png)
 
 #### **Demo**
-Check out the live demo on [Heroku](https://link-to-heroku-app.com) or [GitHub Pages](https://link-to-github-pages.com) for a quick preview (if applicable).
+Check out the live demo on [Heroku](https://ticketing-system-demo-6fe8ff4c2d74.herokuapp.com) or [GitHub Pages](https://github.com/c-razo/ticketing-system) for a quick preview (if applicable).
 
 #### **Challenges**
 - Implementing JWT authentication securely
