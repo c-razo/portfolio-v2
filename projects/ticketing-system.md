@@ -6,7 +6,7 @@
 
 ## Overview
 
-The **Ticketing System Project** is a fully functional ticketing system built with Flask and SQLite, featuring user authentication using JWT (JSON Web Tokens). It allows users to register, log in, submit support tickets, and view the status of their tickets. Designed with security and usability in mind, the system simplifies managing support requests.
+The **Ticketing System Project** is a fully functional ticketing system built with Flask and SQLite, featuring user authentication using JWT (JSON Web Tokens). It allows users to register, log in, submit support tickets, and view the status of their tickets. Designed with security and usability in mind, the system simplifies managing support requests. It was designed for small businesses and teams needing an intuitive way to manage support requests.
 
 ---
 
