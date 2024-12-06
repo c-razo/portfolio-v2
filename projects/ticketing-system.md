@@ -1,22 +1,36 @@
-### **Ticketing System Project**
+# Ticketing System Project
 
-#### **Project Overview**
-This is a fully-functional ticketing system built with Flask and SQLite, featuring user authentication using JWT (JSON Web Tokens). The system allows users to register, log in, submit support tickets, and view the status of their tickets. It's designed to help manage support requests in an intuitive and secure manner.
+**By Chris Razo**
 
-#### **Technologies Used**
+---
+
+## Overview
+
+The **Ticketing System Project** is a fully functional ticketing system built with Flask and SQLite, featuring user authentication using JWT (JSON Web Tokens). It allows users to register, log in, submit support tickets, and view the status of their tickets. Designed with security and usability in mind, the system simplifies managing support requests.
+
+---
+
+## Features
+
+- **User Registration**: Allows new users to create an account.
+- **User Login**: Provides secure authentication using email and password.
+- **Ticket Submission**: Enables authenticated users to submit support tickets.
+- **Ticket Viewing**: Displays a list of tickets and their statuses.
+- **Ticket Resolution**: Allows agents to mark tickets as resolved.
+
+---
+
+## Technologies Used
+
 - **Backend**: Python, Flask
 - **Database**: SQLite
 - **Authentication**: JWT (JSON Web Tokens)
-- **Frontend**: HTML, CSS (via templates in Flask)
+- **Frontend**: HTML, CSS (via Flask templates)
 
-#### **Features**
-- **User Registration**: Allows new users to create an account.
-- **User Login**: Provides a login system where users can authenticate via email and password.
-- **Ticket Submission**: Authenticated users can submit new tickets, which are stored in the database.
-- **Ticket Viewing**: Users can view a list of their tickets and their statuses.
-- **Ticket Resolution**: Agents can mark tickets as resolved.
+---
 
-#### **Installation Instructions**
+## Installation Instructions
+
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/c-razo/ticketing-system.git
@@ -38,21 +52,55 @@ This is a fully-functional ticketing system built with Flask and SQLite, featuri
     ```
 5. **Navigate to** `http://127.0.0.1:5000` in your browser to access the app.
 
-#### **Screenshots**
-- **Login Page**  
-   ![Login Page](https://raw.githubusercontent.com/c-razo/ticketing-system/main/assets/login.png)
-- **Tickets Page**  
-   ![Tickets Page](https://raw.githubusercontent.com/c-razo/ticketing-system/main/assets/tickets.png)
+---
 
-#### **Demo**
-Check out the live demo on [Heroku](https://ticketing-system-demo-6fe8ff4c2d74.herokuapp.com) or [GitHub Pages](https://github.com/c-razo/ticketing-system) for a quick preview (if applicable).
+## Current Progress
 
-#### **Challenges**
-- Implementing JWT authentication securely
-- Handling user sessions in a stateless environment
-- Managing and tracking ticket statuses
+- ✅ User registration and login using JWT authentication.
+- ✅ Ticket submission and viewing functionality.
+- ✅ Secure database integration with SQLite.
+- 🟡 Enhancing the UI for better user experience.
+- 🟡 Adding email notifications for ticket updates.
 
-#### **Future Improvements**
-- Add email notifications for ticket updates
-- Integrate with an external ticketing platform for advanced features
-- Add an admin panel for agents to manage tickets more efficiently
+---
+
+## Visual Demonstrations
+
+### **1. Login Page**  
+![Login Page](https://raw.githubusercontent.com/c-razo/ticketing-system/main/assets/login.png)  
+*The login page provides secure access to the ticketing system.*
+
+### **2. Tickets Page**  
+![Tickets Page](https://raw.githubusercontent.com/c-razo/ticketing-system/main/assets/tickets.png)  
+*The tickets page lists all submitted tickets and their statuses.*
+
+---
+
+## Challenges
+
+- Implementing JWT authentication securely.
+- Handling user sessions in a stateless environment.
+- Managing and tracking ticket statuses efficiently.
+
+---
+
+## Future Improvements
+
+- Add email notifications for ticket updates.
+- Integrate with an external ticketing platform for advanced features.
+- Develop an admin panel for agents to manage tickets more effectively.
+
+---
+
+## GitHub Repository
+
+[Explore the Repository on GitHub](https://github.com/c-razo/ticketing-system)
+
+---
+
+## Navigation
+
+[⬅️ Back to Projects](../index.md#projects)
+
+[⬆️ Back to Top](#ticketing-system-project)
+
