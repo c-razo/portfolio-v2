@@ -71,7 +71,7 @@ The **Ticketing System Project** is a fully functional ticketing system built wi
 *The login page provides secure access to the ticketing system.*
 
 ### **2. Tickets Page**  
-![Tickets Page](https://ticketing-system-demo-6fe8ff4c2d74.herokuapp.com)  
+![Tickets Page](./assets/images/tickets1.png)  
 *The tickets page lists all submitted tickets and their statuses.*
 
 ---
