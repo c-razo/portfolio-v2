@@ -18,7 +18,7 @@ Thank you for stopping by. Together, let’s secure the digital future!
 
 ## Contact Me
 - [Email Me](mailto:christopher.razo@icloud.com)
-- [Connect on LinkedIn](https://linkedin.com/in/christopher-razo)
+- [Connect on LinkedIn](https://linkedin.com/in/chris-razo)
 
 ---
 
