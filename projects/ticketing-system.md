@@ -72,11 +72,11 @@ The **Ticketing System Project** is a fully functional ticketing system built wi
 
 ### **2. Tickets Page**  
 ![Tickets Page](../assets/images/ticket1.png)  
-*The tickets page lists all submitted tickets and their statuses.*
+*The tickets page lists allows one to submit the request.*
 
 ### **3. Ticket Submitted Successfully**  
 ![Tickets Submitted](../assets/images/no-wifi.png)  
-*The tickets page lists all submitted tickets and their statuses.*
+*The tickets page confirms the ticket was submitted.*
 
 ---
 
