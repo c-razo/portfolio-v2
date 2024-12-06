@@ -67,7 +67,7 @@ The **Ticketing System Project** is a fully functional ticketing system built wi
 ## Visual Demonstrations
 
 ### **1. Login Page**  
-![Login Page](https://raw.githubusercontent.com/c-razo/ticketing-system/main/assets/login.png)  
+![Login Page](../assets/images/tickets-login.png)  
 *The login page provides secure access to the ticketing system.*
 
 ### **2. Tickets Page**  
