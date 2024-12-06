@@ -78,6 +78,9 @@ The **Ticketing System Project** is a fully functional ticketing system built wi
 ![Tickets Submitted](../assets/images/no-wifi.png)  
 *The tickets page confirms the ticket was submitted.*
 
+
+Disclaimer: The Heroku demo may take a few seconds to load as it is hosted on a free-tier dyno.
+
 ---
 
 ## Challenges
